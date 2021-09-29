@@ -4,7 +4,7 @@ Simple tool for Batch Converting Curves with averaged edge length of UVs, and pl
 
 Installation process is standard:
 
-1. Download .zip with script
+1. Download .zip (https://github.com/Akhura/Convert-Curves-with-UVs/archive/refs/heads/main.zip) with script
 2. Unpack
 3. In Blender -> Preference -> Addons -> Install, navigate to the unpacked folder, choose curve_convert_with_UVs.py and click Install
 4. Enable it
