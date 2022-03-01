@@ -1,6 +1,7 @@
 # Convert-Curves-with-UVs
 
 Simple tool for Batch Converting Curves with averaged edge length of UVs, and placing seam, based on auto-created UV unwrap after converting.
+
 Currently, there are some limitations for usage: only single spline curves and other possible issues, that hasn't tested occured yet.
 Installation process is standard:
 
