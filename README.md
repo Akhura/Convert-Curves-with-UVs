@@ -2,7 +2,8 @@
 
 Simple tool for Batch Converting Curves with averaged edge length of UVs, and placing seam, based on auto-created UV unwrap after converting.
 
-Currently, there are some limitations for usage: only single spline curves and other possible issues, that hasn't tested occured yet.
+Currently, there are some limitations for usage: only single spline curves and other possible issues, that hasn't been tested or occured yet.
+
 Installation process is standard:
 
 1. Download .zip (https://github.com/Akhura/Convert-Curves-with-UVs/archive/refs/heads/main.zip) with script
